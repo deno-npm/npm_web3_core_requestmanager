@@ -20,7 +20,7 @@ import Jsonrpc from './src/jsonrpc.js';
 import BatchManager from './src/batch.js';
 import givenProvider from './src/givenProvider.js';
 
-import HttpProvider from "https://deno.land/x/npm_web3_providers_http@0.0.1/mod.js";
+import HttpProvider from "https://deno.land/x/npm_web3_providers_http@0.0.2/mod.js";
 import IpcProvider from "https://deno.land/x/npm_web3_providers_ipc@0.0.1/mod.js";
 import WebsocketProvider from "https://deno.land/x/npm_web3_providers_ws@0.0.1/mod.js";
 
